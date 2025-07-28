@@ -32,8 +32,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [`saas-backend-starter`](https://github.com/shalini1799/saas-backend-starter) | A scalable boilerplate for SaaS backends | Golang, Gin, GORM, PostgreSQL, Docker |
-| [`gh-activity-tracker`](https://github.com/shalini1799/gh-activity-tracker) | CLI to view GitHub stats for any user | Golang, Cobra CLI |
+| [`StockPulse`](https://github.com/shalini1799/stockpulse) | Real-time inventory and order management system | Golang, gRPC, Kafka, Redis, MySQL, Docker, Kubernetes, React |
 | [`golang-dsa-solutions`](https://github.com/shalini1799/golang-dsa-solutions) | DSA problems and explanations in Go | Golang |
 
 ---
